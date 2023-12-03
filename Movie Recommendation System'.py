@@ -3,8 +3,6 @@
 
 # In[1]:
 
-# this is a rec-system
-
 import numpy as np
 import pandas as pd
 
